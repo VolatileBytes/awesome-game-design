@@ -1,0 +1,92 @@
+{
+  "games": [
+    {
+      "id": "arknights",
+      "title": "Arknights",
+      "version": "0.1.0",
+      "description": "Real-time tower defense + RPG hybrid where players deploy anime \"Operators\" onto tiled maps to intercept enemies. Gacha-driven roster; PvE focused; intricate puzzle-style stages.",
+      "tags": ["mobile", "tower-defense", "rpg", "gacha", "pve", "puzzle", "anime", "free-to-play"],
+      "engines": ["unity"]
+    },
+    {
+      "id": "brawl-stars",
+      "title": "Brawl Stars",
+      "version": "0.1.0",
+      "description": "Top-down real-time 3v3 mobile shooter with a roster of distinct heroes (\"brawlers\"), each with a basic attack, super ability, and per-match progression. Short matches across multiple PvP and PvE modes.",
+      "tags": ["mobile", "pvp", "top-down", "hero-shooter", "real-time", "moba-lite", "free-to-play"],
+      "engines": ["unity"]
+    },
+    {
+      "id": "candy-crush-saga",
+      "title": "Candy Crush Saga",
+      "version": "0.1.0",
+      "description": "The match-3 saga-map genre originator — swap candies to match 3+, clear levels on a world map, earn 3-star scores, with limited lives, boosters, and thousands of hand-designed levels.",
+      "tags": ["mobile", "pc", "puzzle", "match-3", "casual", "saga-map", "free-to-play"],
+      "engines": ["unity"]
+    },
+    {
+      "id": "clash-of-clans",
+      "title": "Clash of Clans",
+      "version": "0.1.0",
+      "description": "Asynchronous base-building mobile strategy game. Players develop a defended village, train troops, and raid other players' bases offline in 3-minute timed attacks.",
+      "tags": ["mobile", "base-builder", "strategy", "pve", "pvp-async", "free-to-play", "persistent"],
+      "engines": ["unity"]
+    },
+    {
+      "id": "clash-royale",
+      "title": "Clash Royale",
+      "version": "0.1.0",
+      "description": "Real-time 1v1 mobile PvP deckbuilder played on a 3-lane arena. Players spend a regenerating elixir resource to deploy 8-card decks and destroy the opponent's towers inside a 3-minute match (plus overtime).",
+      "tags": ["mobile", "pvp", "deckbuilder", "real-time", "tower-defense", "competitive", "free-to-play"],
+      "engines": ["unity"]
+    },
+    {
+      "id": "hearthstone",
+      "title": "Hearthstone",
+      "version": "0.1.0",
+      "description": "Turn-based collectible card game with mana crystals, hero classes, minion board combat, and spells. The archetypal modern digital CCG.",
+      "tags": ["mobile", "pc", "card-game", "ccg", "turn-based", "class-based", "pvp", "free-to-play"],
+      "engines": ["unity"]
+    },
+    {
+      "id": "marvel-snap",
+      "title": "Marvel Snap",
+      "version": "0.1.0",
+      "description": "3-lane, 6-turn simultaneous card battler where random locations reshape the board every match. Short games, deep decisions, stake-escalation via Snap.",
+      "tags": ["mobile", "card-game", "ccg", "pvp", "real-time-simultaneous", "tactical", "free-to-play"],
+      "engines": ["unity"]
+    },
+    {
+      "id": "pokemon-unite",
+      "title": "Pokémon Unite",
+      "version": "0.1.0",
+      "description": "5v5 mobile MOBA where players as Pokémon farm wild mons, level up, fight in lanes, and dunk scored energy into enemy goals. Short matches, simplified MOBA.",
+      "tags": ["mobile", "moba", "pvp", "5v5", "real-time", "team-based", "free-to-play"],
+      "engines": ["unity"]
+    },
+    {
+      "id": "royal-match",
+      "title": "Royal Match",
+      "version": "0.1.0",
+      "description": "Match-3 puzzle game with a mansion-restoration meta-progression. King Robert's palace, rich tactile feedback, level-pack progression. Top-grossing mobile puzzle.",
+      "tags": ["mobile", "puzzle", "match-3", "casual", "meta-progression", "free-to-play"],
+      "engines": ["unity"]
+    },
+    {
+      "id": "toon-blast",
+      "title": "Toon Blast",
+      "version": "0.1.0",
+      "description": "Single-tap blast-3 puzzle — tap groups of 2+ same-color cubes to blast them; clear objectives across 5,000+ cartoon-themed levels with a team-based social meta and pre-/in-level boosters.",
+      "tags": ["mobile", "puzzle", "blast-3", "casual", "cartoon", "team-based", "free-to-play"],
+      "engines": ["unity"]
+    },
+    {
+      "id": "vampire-survivors",
+      "title": "Vampire Survivors",
+      "version": "0.1.0",
+      "description": "Bullet-heaven roguelite where a single character auto-attacks swarms of enemies across a 30-minute run while drafting weapon and item builds.",
+      "tags": ["roguelite", "bullet-heaven", "action", "2d", "top-down", "pixel-art", "single-player"],
+      "engines": ["unity"]
+    }
+  ]
+}
