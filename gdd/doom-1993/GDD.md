@@ -4,7 +4,7 @@ title: DOOM (1993)
 version: 0.1.0
 description: id Software's genre-defining 1993 first-person shooter — fast movement, shotgun combat, 2.5D BSP-rendered mazes, pioneered modding via WAD files and shareware distribution.
 tags: [fps, first-person-shooter, classic, horror, action, shareware, moddable, pc, retro]
-engines: [idtech1]
+engines: [idtech1, unity]
 ---
 
 # DOOM (1993)
@@ -239,3 +239,4 @@ Text screens between episodes. No NPCs, no dialogue, no cutscenes. The player fi
 ## Engine Overlays
 
 - [id Tech 1 (Doom engine)](engines/idtech1/GDD.md)
+- [Unity](engines/unity/GDD.md)

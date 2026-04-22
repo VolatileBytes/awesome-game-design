@@ -213,7 +213,8 @@
         "retro"
       ],
       "engines": [
-        "idtech1"
+        "idtech1",
+        "unity"
       ]
     },
     {
