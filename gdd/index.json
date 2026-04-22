@@ -287,6 +287,25 @@
       ]
     },
     {
+      "id": "hollow-knight",
+      "title": "Hollow Knight",
+      "version": "0.1.0",
+      "description": "Metroidvania action-adventure — a silent knight descends into the ruined bug kingdom Hallownest, gaining abilities, defeating bosses, and uncovering its fall.",
+      "tags": [
+        "metroidvania",
+        "action",
+        "indie",
+        "2d",
+        "hand-drawn",
+        "single-player",
+        "souls-like",
+        "platformer"
+      ],
+      "engines": [
+        "unity"
+      ]
+    },
+    {
       "id": "marvel-snap",
       "title": "Marvel Snap",
       "version": "0.1.0",
