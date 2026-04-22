@@ -380,6 +380,26 @@
       ]
     },
     {
+      "id": "stardew-valley",
+      "title": "Stardew Valley",
+      "version": "0.1.0",
+      "description": "Country-life farming sim RPG — inherit a grandfather's farm, grow crops, raise animals, befriend townsfolk, explore mines, marry, restore a valley.",
+      "tags": [
+        "farming-sim",
+        "rpg",
+        "life-sim",
+        "indie",
+        "2d",
+        "top-down",
+        "single-player",
+        "co-op",
+        "cross-platform"
+      ],
+      "engines": [
+        "monogame"
+      ]
+    },
+    {
       "id": "toon-blast",
       "title": "Toon Blast",
       "version": "0.1.0",
