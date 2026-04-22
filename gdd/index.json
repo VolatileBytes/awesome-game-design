@@ -215,6 +215,26 @@
       ]
     },
     {
+      "id": "risk-of-rain-2",
+      "title": "Risk of Rain 2",
+      "version": "0.1.0",
+      "description": "Third-person 3D roguelike shooter. Drop onto alien planets, find a teleporter, survive an escalating horde while it charges, loop forever. Item stacking is the core fun.",
+      "tags": [
+        "pc",
+        "console",
+        "shooter",
+        "third-person",
+        "roguelike",
+        "co-op",
+        "indie",
+        "sci-fi",
+        "action"
+      ],
+      "engines": [
+        "unity"
+      ]
+    },
+    {
       "id": "royal-match",
       "title": "Royal Match",
       "version": "0.1.0",
