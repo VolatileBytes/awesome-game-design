@@ -116,6 +116,27 @@
       ]
     },
     {
+      "id": "hades",
+      "title": "Hades",
+      "version": "0.1.0",
+      "description": "Isometric action roguelite set in Greek mythology. Escape the Underworld as Zagreus, son of Hades, using weapons and god-granted Boons. Death is canon — each run reveals more story, characters, and upgrades.",
+      "tags": [
+        "pc",
+        "mobile",
+        "console",
+        "action",
+        "roguelike",
+        "roguelite",
+        "indie",
+        "single-player",
+        "hack-and-slash",
+        "narrative"
+      ],
+      "engines": [
+        "unity"
+      ]
+    },
+    {
       "id": "hearthstone",
       "title": "Hearthstone",
       "version": "0.1.0",
