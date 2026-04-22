@@ -218,6 +218,23 @@
       ]
     },
     {
+      "id": "helldivers-2",
+      "title": "Helldivers 2",
+      "version": "0.1.0",
+      "description": "Third-person co-op squad shooter where orbital stratagems, massive bug/bot hordes, and a persistent galactic war deliver managed democracy one mission at a time.",
+      "tags": [
+        "third-person-shooter",
+        "co-op",
+        "pve",
+        "persistent-war",
+        "stratagems",
+        "friendly-fire"
+      ],
+      "engines": [
+        "unreal"
+      ]
+    },
+    {
       "id": "marvel-snap",
       "title": "Marvel Snap",
       "version": "0.1.0",
