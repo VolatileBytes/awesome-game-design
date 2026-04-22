@@ -265,7 +265,8 @@
         "indie"
       ],
       "engines": [
-        "cocos2d"
+        "cocos2d",
+        "unity"
       ]
     },
     {

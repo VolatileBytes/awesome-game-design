@@ -4,7 +4,7 @@ title: Flappy Bird
 version: 0.1.0
 description: Dong Nguyen's 2013 one-button mobile game — tap to flap a bird between green pipes, miss once and die. Viral phenomenon, pulled from stores at peak, progenitor of the "hyper-casual" genre.
 tags: [mobile, casual, arcade, one-button, hyper-casual, viral, indie]
-engines: [cocos2d]
+engines: [cocos2d, unity]
 ---
 
 # Flappy Bird
@@ -321,3 +321,4 @@ These produce "the feel." Tweaks of ±10% produce noticeably worse games.
 ## Engine Overlays
 
 - [Cocos2d](engines/cocos2d/GDD.md)
+- [Unity](engines/unity/GDD.md)
