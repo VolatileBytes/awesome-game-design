@@ -4,7 +4,7 @@ title: Pong
 version: 0.1.0
 description: The first commercially successful video game — two paddles, one ball, first to 11 wins. Originally shipped 1972 by Atari as TTL-hardware arcade.
 tags: [arcade, two-player, classic, sports, 2d, historic]
-engines: [web]
+engines: [web, unity]
 ---
 
 # Pong
@@ -195,3 +195,4 @@ Pong is the canonical "hello world" of game dev. Every engine's first tutorial.
 ## Engine Overlays
 
 - [Web / HTML5 Canvas](engines/web/GDD.md)
+- [Unity](engines/unity/GDD.md)
