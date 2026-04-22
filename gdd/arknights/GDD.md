@@ -3,7 +3,7 @@ id: arknights
 title: Arknights
 version: 0.1.0
 description: Real-time tower defense + RPG hybrid where players deploy anime "Operators" onto tiled maps to intercept enemies. Gacha-driven roster; PvE focused; intricate puzzle-style stages.
-tags: [mobile, tower-defense, rpg, gacha, pve, puzzle, anime, free-to-play]
+tags: [mobile, tower-defense, rpg, gacha, pve, anime, free-to-play]
 engines: [unity]
 ---
 
