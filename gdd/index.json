@@ -116,6 +116,23 @@
       ]
     },
     {
+      "id": "counter-strike",
+      "title": "Counter-Strike",
+      "version": "0.1.0",
+      "description": "Tactical 5v5 round-based FPS where economy, map control, and precision aim compound into decisive minutes.",
+      "tags": [
+        "fps",
+        "tactical",
+        "competitive",
+        "multiplayer",
+        "esports",
+        "pc"
+      ],
+      "engines": [
+        "source2"
+      ]
+    },
+    {
       "id": "darkest-dungeon",
       "title": "Darkest Dungeon",
       "version": "0.1.0",
