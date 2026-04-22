@@ -62,8 +62,11 @@
       "description": "Asynchronous base-building mobile strategy game. Players develop a defended village, train troops, and raid other players' bases offline in 3-minute timed attacks.",
       "tags": [
         "mobile",
-        "base-builder",
         "strategy",
+        "slg",
+        "base-builder",
+        "city-builder",
+        "coc",
         "pve",
         "pvp-async",
         "free-to-play",
@@ -80,10 +83,12 @@
       "description": "Real-time 1v1 mobile PvP deckbuilder played on a 3-lane arena. Players spend a regenerating elixir resource to deploy 8-card decks and destroy the opponent's towers inside a 3-minute match (plus overtime).",
       "tags": [
         "mobile",
-        "pvp",
+        "strategy",
+        "card-game",
         "deckbuilder",
-        "real-time",
         "tower-defense",
+        "pvp",
+        "real-time",
         "competitive",
         "free-to-play"
       ],

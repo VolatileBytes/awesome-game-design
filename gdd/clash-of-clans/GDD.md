@@ -3,7 +3,7 @@ id: clash-of-clans
 title: Clash of Clans
 version: 0.1.0
 description: Asynchronous base-building mobile strategy game. Players develop a defended village, train troops, and raid other players' bases offline in 3-minute timed attacks.
-tags: [mobile, base-builder, strategy, pve, pvp-async, free-to-play, persistent]
+tags: [mobile, strategy, slg, base-builder, city-builder, coc, pve, pvp-async, free-to-play, persistent]
 engines: [unity]
 ---
 

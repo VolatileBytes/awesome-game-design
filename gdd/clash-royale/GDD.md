@@ -3,7 +3,7 @@ id: clash-royale
 title: Clash Royale
 version: 0.1.0
 description: Real-time 1v1 mobile PvP deckbuilder played on a 3-lane arena. Players spend a regenerating elixir resource to deploy 8-card decks and destroy the opponent's towers inside a 3-minute match (plus overtime).
-tags: [mobile, pvp, deckbuilder, real-time, tower-defense, competitive, free-to-play]
+tags: [mobile, strategy, card-game, deckbuilder, tower-defense, pvp, real-time, competitive, free-to-play]
 engines: [unity]
 ---
 
