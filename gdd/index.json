@@ -116,6 +116,28 @@
       ]
     },
     {
+      "id": "darkest-dungeon",
+      "title": "Darkest Dungeon",
+      "version": "0.1.0",
+      "description": "Gothic horror turn-based party RPG. Recruit heroes, send 4-person parties into procedural dungeons, manage stress alongside HP. Heroes break, die, acquire afflictions — and sometimes succeed anyway.",
+      "tags": [
+        "pc",
+        "mobile",
+        "console",
+        "turn-based",
+        "rpg",
+        "roguelike",
+        "horror",
+        "indie",
+        "single-player",
+        "strategy",
+        "gothic"
+      ],
+      "engines": [
+        "unity"
+      ]
+    },
+    {
       "id": "dead-cells",
       "title": "Dead Cells",
       "version": "0.1.0",
