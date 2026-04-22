@@ -1,6 +1,25 @@
 {
   "games": [
     {
+      "id": "among-us",
+      "title": "Among Us",
+      "version": "0.1.0",
+      "description": "Social deduction multiplayer — crewmates complete tasks while impostors sabotage and kill; suss out the traitors via meetings and votes.",
+      "tags": [
+        "multiplayer",
+        "social-deduction",
+        "casual",
+        "mobile",
+        "pc",
+        "console",
+        "2d",
+        "top-down"
+      ],
+      "engines": [
+        "unity"
+      ]
+    },
+    {
       "id": "arknights",
       "title": "Arknights",
       "version": "0.1.0",
