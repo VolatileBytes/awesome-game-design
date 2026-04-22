@@ -168,6 +168,26 @@
       ]
     },
     {
+      "id": "slay-the-spire",
+      "title": "Slay the Spire",
+      "version": "0.1.0",
+      "description": "Turn-based single-player deckbuilder roguelike. Ascend a three-act spire with one of four characters, drafting cards and relics between turn-based battles against enemies whose next actions are telegraphed each turn.",
+      "tags": [
+        "pc",
+        "mobile",
+        "deckbuilder",
+        "roguelike",
+        "card-game",
+        "turn-based",
+        "single-player",
+        "indie",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ]
+    },
+    {
       "id": "toon-blast",
       "title": "Toon Blast",
       "version": "0.1.0",
