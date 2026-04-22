@@ -116,6 +116,29 @@
       ]
     },
     {
+      "id": "dead-cells",
+      "title": "Dead Cells",
+      "version": "0.1.0",
+      "description": "2D action metroidvania roguelite. Control a reanimated mass of cells who possesses corpses and fights through procedurally arranged biomes. Die, lose progress, unlock permanent blueprints, run again.",
+      "tags": [
+        "pc",
+        "mobile",
+        "console",
+        "action",
+        "roguelike",
+        "roguelite",
+        "metroidvania",
+        "indie",
+        "single-player",
+        "hack-and-slash",
+        "platformer"
+      ],
+      "engines": [
+        "unity",
+        "godot"
+      ]
+    },
+    {
       "id": "hades",
       "title": "Hades",
       "version": "0.1.0",
