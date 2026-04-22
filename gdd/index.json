@@ -197,6 +197,26 @@
       ]
     },
     {
+      "id": "doom-1993",
+      "title": "DOOM (1993)",
+      "version": "0.1.0",
+      "description": "id Software's genre-defining 1993 first-person shooter — fast movement, shotgun combat, 2.5D BSP-rendered mazes, pioneered modding via WAD files and shareware distribution.",
+      "tags": [
+        "fps",
+        "first-person-shooter",
+        "classic",
+        "horror",
+        "action",
+        "shareware",
+        "moddable",
+        "pc",
+        "retro"
+      ],
+      "engines": [
+        "idtech1"
+      ]
+    },
+    {
       "id": "escape-from-duckov",
       "title": "Escape from Duckov",
       "version": "0.1.0",
