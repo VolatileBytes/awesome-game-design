@@ -178,6 +178,22 @@
       ]
     },
     {
+      "id": "escape-from-duckov",
+      "title": "Escape from Duckov",
+      "version": "0.1.0",
+      "description": "Single-player top-down extraction shooter — ducks-with-guns parody of Tarkov with solo-friendly economy, persistent stash, and 10+ hour tactical loop.",
+      "tags": [
+        "top-down-shooter",
+        "extraction",
+        "single-player",
+        "indie",
+        "parody"
+      ],
+      "engines": [
+        "unity"
+      ]
+    },
+    {
       "id": "escape-from-tarkov",
       "title": "Escape from Tarkov",
       "version": "0.1.0",
