@@ -178,6 +178,23 @@
       ]
     },
     {
+      "id": "escape-from-tarkov",
+      "title": "Escape from Tarkov",
+      "version": "0.1.0",
+      "description": "Hardcore extraction-shooter set in a besieged Russian city — ballistic-accurate gunplay, real-time looting, full-loss-on-death, and a deep inventory economy.",
+      "tags": [
+        "fps",
+        "extraction-shooter",
+        "hardcore",
+        "survival",
+        "milsim",
+        "pvpve"
+      ],
+      "engines": [
+        "unity"
+      ]
+    },
+    {
       "id": "hades",
       "title": "Hades",
       "version": "0.1.0",
