@@ -19,6 +19,26 @@
       ]
     },
     {
+      "id": "balatro",
+      "title": "Balatro",
+      "version": "0.1.0",
+      "description": "Poker-themed deckbuilder roguelike. Build poker hands against escalating \"blind\" scores, stack Jokers and consumables to multiply chips × mult into absurd numbers, clear 8 antes per run.",
+      "tags": [
+        "pc",
+        "mobile",
+        "deckbuilder",
+        "roguelike",
+        "card-game",
+        "indie",
+        "single-player",
+        "poker",
+        "strategy"
+      ],
+      "engines": [
+        "unity"
+      ]
+    },
+    {
       "id": "brawl-stars",
       "title": "Brawl Stars",
       "version": "0.1.0",
